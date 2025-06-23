@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tagsexpress.com/sitemap.xml
